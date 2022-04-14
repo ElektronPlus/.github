@@ -1,7 +1,5 @@
-<img src="https://user-images.githubusercontent.com/61631665/163376823-3f7c766e-6169-4e9e-b995-50c32b27e85e.png" width="100%">
-
 ## Hey, this is ElektronPlus! 👋
-
+<img src="https://user-images.githubusercontent.com/61631665/163376823-3f7c766e-6169-4e9e-b995-50c32b27e85e.png" width="100%">
 We're a community of students from **[Elektronik vocational school](https://zseis.zgora.pl)** developing cool things! If you want to join our organization, feel free to DM!
 
 #### Discord 
