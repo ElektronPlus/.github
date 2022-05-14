@@ -3,6 +3,9 @@
 
 We're a community of students from **[Elektronik vocational school](https://zseis.zgora.pl)** developing cool things! If you want to join our organization, feel free to DM!
 
+#### Websites
+- [✨ School Website (Next.js and Strapi)](https://github.com/ElektronPlus/school-website)
+
 #### Discord 
 - [🤖 Elektron++ Discord Bot and related stuff](https://github.com/ElektronPlus/discord)
 - [🧾 News to Discord](https://github.com/ElektronPlus/zseis-news)
